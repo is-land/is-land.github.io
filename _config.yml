@@ -31,8 +31,8 @@ paginate: 5
 title : is-Land
 tagline: A page for something about is-Land RD members.
 assets: /assets
-baseurl: "/gh-page"
-url: "/gh-pages"
+baseurl: ""
+url: "s"
 
 #### Language
 language: zh-TW    ## blog site languages: en, zh-CN, zh-TW, de

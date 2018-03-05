@@ -12,7 +12,7 @@
         "date": "2017 年 12 月",
         "excerpt": "根據INFRA-15的需求，此篇主要用來說明現有的程式、服務…等入口點與使用說明文件的連結。\n\n",
         
-        "url": "/gh-page/document/2017/12/19/service-list-and-document"
+        "url": "/document/2017/12/19/service-list-and-document"
       },
     
   
@@ -23,7 +23,7 @@
     "date": "2013 年 12 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2013-12-24-categories"
+    "url": "/sample_md/2013-12-24-categories"
   },
   
   {
@@ -31,7 +31,7 @@
     "date": "2013 年 12 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2013-12-24-elements"
+    "url": "/sample_md/2013-12-24-elements"
   },
   
   {
@@ -39,7 +39,7 @@
     "date": "2013 年 12 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2013-12-24-link-post"
+    "url": "/sample_md/2013-12-24-link-post"
   },
   
   {
@@ -47,7 +47,7 @@
     "date": "2013 年 12 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2013-12-24-long-title"
+    "url": "/sample_md/2013-12-24-long-title"
   },
   
   {
@@ -55,7 +55,7 @@
     "date": "2013 年 12 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2013-12-24-tags"
+    "url": "/sample_md/2013-12-24-tags"
   },
   
   {
@@ -63,7 +63,7 @@
     "date": "2013 年 12 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2013-12-24-%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6"
+    "url": "/sample_md/2013-12-24-%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6"
   },
   
   {
@@ -71,7 +71,7 @@
     "date": "2013 年 12 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2013-12-24-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88"
+    "url": "/sample_md/2013-12-24-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88"
   },
   
   {
@@ -79,7 +79,7 @@
     "date": "2013 年 12 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2013-12-25-block"
+    "url": "/sample_md/2013-12-25-block"
   },
   
   {
@@ -87,7 +87,7 @@
     "date": "2013 年 12 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2013-12-25-excerpts"
+    "url": "/sample_md/2013-12-25-excerpts"
   },
   
   {
@@ -95,7 +95,7 @@
     "date": "2013 年 12 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2013-12-26-images"
+    "url": "/sample_md/2013-12-26-images"
   },
   
   {
@@ -103,7 +103,7 @@
     "date": "2014 年 02 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2014-02-16-Mathjax-with-jekyll"
+    "url": "/sample_md/2014-02-16-Mathjax-with-jekyll"
   },
   
   {
@@ -111,7 +111,7 @@
     "date": "2014 年 11 月",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2014-11-18-gallery-post"
+    "url": "/sample_md/2014-11-18-gallery-post"
   },
   
   {
@@ -119,7 +119,7 @@
     "date": " ",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2015-09-19-emoji-test"
+    "url": "/sample_md/2015-09-19-emoji-test"
   },
   
   {
@@ -127,7 +127,7 @@
     "date": " ",
     "excerpt": "\n",
     
-    "url": "/gh-page/sample_md/2015-09-20-how-to-use-jacman"
+    "url": "/sample_md/2015-09-20-how-to-use-jacman"
   },
   
   {
@@ -135,7 +135,7 @@
     "date": " ",
     "excerpt": "\n",
     
-    "url": "/gh-page/404"
+    "url": "/404"
   },
   
   {
@@ -143,7 +143,7 @@
     "date": " ",
     "excerpt": "\n",
     
-    "url": "/gh-page/about/"
+    "url": "/about/"
   }
   
 ]
