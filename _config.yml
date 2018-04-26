@@ -29,7 +29,7 @@ paginate: 5
 
 #### Site
 title : is-Land
-tagline: A page for something about is-Land RD members.
+tagline: A page for something about is-Land.
 assets: /assets
 baseurl: ""
 url: "s"
@@ -86,7 +86,7 @@ share_to: false #enable share-to buttons if true
 author:
   name: is-Land      ## e.g. wuchong Author name
   intro_line1:  "We are is-land Systems Inc. "    ## your introduction on the bottom of the page
-  intro_line2:  "This is our blog for RD team."  ## the 2nd line
+  intro_line2:  "This is our blog for members."  ## the 2nd line
   #weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   #weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   #tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
@@ -110,7 +110,7 @@ toc:
 
 #### Links
 links:
-  Stana's Blog: https://mathsigit.github.io/blog_page/
+  亦思科技: https://www.is-land.com.tw/
 
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong      your duoshuo short name.       website: http://duoshuo.com
