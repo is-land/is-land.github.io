@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "30天系列 Day 24 - Apache Hive 與 HBase 整合應用介紹"
-subtitle:   "30 Days Series Day 24 - Integration Of Apache Hive and Apache HBase"
+title:      "30天系列 Day 25 - Apache Hive 與 HBase 整合應用介紹"
+subtitle:   "30 Days Series Day 25 - Integration Of Apache Hive and Apache HBase"
 date:       2017-12-28 00:00:00 +0800
 author:     "Yung-An"
 tags:
