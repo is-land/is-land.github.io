@@ -28,8 +28,8 @@ defaults:
 paginate: 5
 
 #### Site
-title : is-Land
-tagline: A page for something about is-Land.
+title : is-land
+tagline: A page for something about is-land.
 assets: /assets
 baseurl: ""
 url: "s"
@@ -84,7 +84,7 @@ share_to: false #enable share-to buttons if true
 
 #### Author information
 author:
-  name: is-Land      ## e.g. wuchong Author name
+  name: is-land      ## e.g. wuchong Author name
   intro_line1:  "We are is-land Systems Inc. "    ## your introduction on the bottom of the page
   intro_line2:  "This is our blog for members."  ## the 2nd line
   #weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
